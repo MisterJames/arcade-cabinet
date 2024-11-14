@@ -1,2 +1,5 @@
-# arcade-cabinet
-All my plans, files and parts for building a retro arcade cabinet.
+# Retro Arcade Cabinet
+
+I built a retro arcade cabinet, complete with working emulator, audio system, tilt-casters, room for a bar fridge and 
+
+
