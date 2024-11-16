@@ -4,7 +4,7 @@ I built a retro arcade cabinet, complete with working emulator, audio system, ti
 
 ## This is how I did it.
 
-- [Parts](parts/parts list instructions.md)
+- [Parts](parts/parts%20list%20instructions.md)
 
 More Coming Soon
 
